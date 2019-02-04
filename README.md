@@ -4,6 +4,6 @@ Example terraform.tfvars file
 ```
 digitalocean_token = "mydigitaloceanapitoken"
 volumes = [
-  "lon01:datastore:30"
+  "lon1:datastore:30"
 ]
 ```
